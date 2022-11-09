@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Predicting Closing Proce BBRI using LSTM"
+title: "Predicting Closing Price BBRI using LSTM"
 subtitle: "Predicting Closing Price of BBRI's Stock"
-background: '/img/posts/bbri/bg-bbri.jpeg'
+background: '/img/posts/bbri/bg-bbri.jpg'
 ---
 
 # Predicting Closing Price of BBRI's Stock
