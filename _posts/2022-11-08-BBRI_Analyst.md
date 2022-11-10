@@ -9,7 +9,7 @@ background: '/img/posts/bbri/bg-bbri.jpg'
 
 BBRI is the stock name of Bank Rakyat Indonesia. PT Bank Rakyat Indonesia (Persero) Tbk (People's Bank of Indonesia, commonly known as BRI or Bank BRI) is one of the largest banks in Indonesia. It specialises in small scale and microfinance style borrowing from and lending to its approximately 30 million retail clients through its over 4,000 branches, units and rural service posts. It also has a comparatively small, but growing, corporate business. As of 2010 it is the second largest bank in Indonesia by asset.
 
-This dataset can be found using [Pandas DataReader](https://pandas-datareader.readthedocs.io/en/latest/) and will pick from January 2008 to the end of May 2020. It will be more than 12 years. In this session, we will predict the closing price of BBRI with Long Short-Term Memory.
+This dataset can be found using [Pandas DataReader](https://pandas-datareader.readthedocs.io/en/latest/) and will pick from January 2008 to the end of May 2022. It will be more than 14 years. In this session, we will predict the closing price of BBRI with Long Short-Term Memory.
 
 Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points (such as images), but also entire sequences of data (such as speech or video). For example, LSTM is applicable to tasks such as unsegmented, connected handwriting recognition, speech recognition and anomaly detection in network traffic or IDS's (intrusion detection systems).
 
@@ -1137,7 +1137,7 @@ explained_variance_score(y_test, predictions)
 
 
 
-We see that we get the value of RMSE is 34.533. It's very small according to the context of stocks. Look at the 'explained variance score', we get 0.9995. Our model just did a great job. So what if we plot our valid dataset with model's prediction? Could we get some nice line of regression?
+We see that we get the value of RMSE is 31.906. It's very small according to the context of stocks. Look at the 'explained variance score', we get 0.9994. Our model just did a great job. So what if we plot our valid dataset with model's prediction? Could we get some nice line of regression?
 
 
 ```python
@@ -1342,4 +1342,4 @@ model.predict(bbri2)
 
 
 
-Our model predicts 3124 of BBRI's closing price on June 2nd, 2020 while the actual close price is 3180. Well, that's not bad though since our model's RMSE is about 34 units and the evaluation just fit between its predictions and y_test dataset.
+Our model predicts 3124 of BBRI's closing price on June 2nd, 2022 while the actual close price is 3180. Well, that's not bad though since our model's RMSE is about 31 units and the evaluation just fit between its predictions and y_test dataset.
