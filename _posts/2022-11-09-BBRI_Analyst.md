@@ -386,7 +386,7 @@ X_train.shape
 
 
 
-So, it's already splitted with 80:20. Notice our X_train size is 2457 (80% of the dataset).
+So, it's already splitted with 80:20. Notice our X_train size is 2844 (80% of the dataset).
 
 
 ```python
