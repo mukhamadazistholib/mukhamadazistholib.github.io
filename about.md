@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+description: "Great knowledge comes from the humblest of origins"
 background: '/img/bg-about.jpg'
 ---
 
@@ -17,4 +18,4 @@ background: '/img/bg-about.jpg'
 
 <p style='text-align: justify;'><strong>Disclaimer!</strong> <strong>For all my collaborators..</strong> I kindly to ask you to be patient with me. Depending on the research topics that we are explore together, we might be able to contribute to society as well as getting lost in the jungle. Although some of my research projects look credible, I must admit that they are far from a good standard of quality. And I'm still working on it. I hope we can make great collaboration, and contribute to science as well.</p>
 
-<p style='text-align: justify;'><strong>What is DataCrush?</strong> <mark>DataCrush</mark> is self founded startup in the data field that have goals to explore the data verse, then make it into data sense.</p>
+<p style='text-align: justify; '><strong>What is DataCrush?</strong> <mark>DataCrush</mark> is self founded startup in the data field that have goals to explore the data verse, then make it into data sense.</p>
