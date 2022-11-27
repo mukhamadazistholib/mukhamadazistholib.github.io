@@ -10,7 +10,7 @@ background: '/img/bg-about.jpg'
 </p>
 <p align="center" margin="0px"><strong  style="font-size:30px;" >Mukhamad Azis Tholib</strong><br>Bored Physicist</p>
 
-<p style='text-align: justify;'><strong>Why I get bored?</strong> It is not meant to be a humble brag or false modesty because I do not like to pretend to be either a good scientist or a bad scientist. <mark>I get bored when I run out of challenges.</mark> So I need a lot of challenges (and pressure actually.. Ijust wanna be strong like as Diamnon <strong>:)</strong> ) <mark>to keep myself productive and avoid boredom.</mark></p>
+<p style='text-align: justify;'><strong>Why I get bored?</strong> It is not meant to be a humble brag or false modesty because I do not like to pretend to be either a good scientist or a bad scientist. <mark>I get bored when I run out of challenges.</mark> So I need a lot of challenges (and pressure actually.. Ijust wanna be strong like Diamond <strong>:)</strong> ) <mark>to keep myself productive and avoid boredom.</mark></p>
 
 
 
