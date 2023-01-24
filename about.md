@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About Me
 description: "Great knowledge comes from the humblest of origins"
 background: '/img/bg-about.jpg'
 ---
