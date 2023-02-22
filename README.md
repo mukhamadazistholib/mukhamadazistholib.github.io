@@ -1,5 +1,5 @@
 # About
-This is my personal pages using github.io.
+This is my personal pages using github-pages
 
 
 ### Contact
